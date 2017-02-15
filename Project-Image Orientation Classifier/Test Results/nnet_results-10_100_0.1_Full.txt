@@ -1,0 +1,26 @@
+C:\Anaconda2\python.exe C:/Users/sampa/PycharmProjects/AI/Assignment_5/orient_beta5.py
+Reading train data...
+Reading test data...
+Testing NNet...
+Test Size:  943
+Reading files from pickle...
+Confusion Matrix
+	 Model Results
+Actual\Model    0   90  180  270  Actual Count
+           0  163   24   30   22           239
+          90   25  154   18   27           224
+         180   29   30  159   18           236
+         270   30   33   16  165           244
+
+
+Saving Test Output...
+Hidden Count =  10
+NNet Accuracy:  67.9745493107
+('Total Time', 11.109999895095825)
+hidden Layers = 10
+Loop = 100
+alpha = 0.2
+
+
+
+Process finished with exit code 0

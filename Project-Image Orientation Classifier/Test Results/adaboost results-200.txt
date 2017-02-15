@@ -1,0 +1,24 @@
+C:\Anaconda2\python.exe C:/Users/sampa/PycharmProjects/AI/Assignment_5/orient_beta5.py train-data.txt test-data.txt adaboost 200
+Performing AdaBoost Algorithm...
+Best stump_count: 100
+Expected Running Time: < 15-20 seconds
+Thank you for waiting...
+We appreciate your patience...
+Reading train data...
+Reading test data...
+Confusion Matrix
+	 Model Results
+Actual\Model    0   90  180  270  Actual Count
+           0  157   21   35   26           239
+          90   21  144   25   34           224
+         180   32   25  162   17           236
+         270   28   32   21  163           244
+
+
+Saving Test Output...
+Adaboost Accuracy:  66.3838812301
+Testing on AdaBoost Complete...
+Thank you for your time and patience...have a great day :)..
+Total Time 23.4989998341
+
+Process finished with exit code 0

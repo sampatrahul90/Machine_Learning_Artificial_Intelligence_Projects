@@ -1,0 +1,527 @@
+C:\Anaconda2\python.exe C:/Users/sampa/PycharmProjects/AI/Assignment_5/orient_beta3.py
+Reading train data...
+Reading test data...
+total stump error 0.679467762873
+alpha -0.541967821519
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.270808689004
+alpha 0.714511670654
+total stump error 0.677728270087
+alpha -0.53621465648
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.248862670362
+alpha 0.796863428668
+total stump error 0.574546330103
+alpha -0.216710598055
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.472331395205
+alpha 0.0799163580416
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.671381907379
+alpha -0.515360873434
+total stump error 0.556677666365
+alpha -0.164243079956
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.682927831203
+alpha -0.553460939684
+total stump error 0.373457876687
+alpha 0.373232990238
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.555636022373
+alpha -0.161199132086
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.362865054086
+alpha 0.406082922664
+total stump error 0.341259934087
+alpha 0.474419128452
+total stump error 0.315649096885
+alpha 0.558207318982
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.440436632001
+alpha 0.172683526673
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.428674217135
+alpha 0.207215994754
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.623130664796
+alpha -0.362735151583
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.512792701943
+alpha -0.0369199928141
+total stump error 0.256816794133
+alpha 0.766489176177
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.416376893269
+alpha 0.243573497262
+total stump error 0.425087838914
+alpha 0.217790280983
+total stump error 0.394324363281
+alpha 0.309581265135
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.309987877229
+alpha 0.577204955969
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.564816048656
+alpha -0.188077863903
+total stump error 0.621265189249
+alpha -0.357010594645
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.429194709906
+alpha 0.20568320568
+total stump error 0.235404803912
+alpha 0.849776187016
+total stump error 0.326092473574
+alpha 0.523634747639
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.511650754408
+alpha -0.0336230574238
+total stump error 0.501444494893
+alpha -0.00416794283215
+total stump error 0.69035449101
+alpha -0.578359920854
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.668982686787
+alpha -0.50753109909
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.170689006699
+alpha 1.1402715364
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.358118551878
+alpha 0.420934803372
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.462164142493
+alpha 0.109380305892
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.47736582583
+alpha 0.0653530871034
+total stump error 0.392726343427
+alpha 0.314411205929
+total stump error 0.516568224959
+alpha -0.0478233008145
+total stump error 0.394310646418
+alpha 0.309622694499
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.650376288782
+alpha -0.447735815195
+total stump error 0.49276511607
+alpha 0.0208769194457
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.219157248906
+alpha 0.916532821947
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.471826624847
+alpha 0.0813773734756
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.289244606666
+alpha 0.648531541332
+total stump error 0.558505254247
+alpha -0.169587292403
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.730669605479
+alpha -0.719921072407
+total stump error 0.26624025128
+alpha 0.731289532876
+total stump error 0.180829357172
+alpha 1.08976754945
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.390668056307
+alpha 0.320642539317
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.75294678314
+alpha -0.803863030206
+total stump error 0.305170921679
+alpha 0.593520315261
+total stump error 0.557939461512
+alpha -0.16793231907
+total stump error 0.744120306536
+alpha -0.770035114779
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.291176903594
+alpha 0.641764844711
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.776050126225
+alpha -0.89648699409
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.26813366308
+alpha 0.724313916726
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.621576926796
+alpha -0.357966447973
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.688828502096
+alpha -0.573217459074
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.553592725772
+alpha -0.155232224946
+total stump error 0.64915858475
+alpha -0.443875949879
+total stump error 0.467683992777
+alpha 0.0933744494845
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.757461783837
+alpha -0.821480507519
+total stump error 0.335635590188
+alpha 0.492539542572
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.36006864288
+alpha 0.414822597776
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.538050674956
+alpha -0.110003728182
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.396702175928
+alpha 0.302407034112
+total stump error 0.540985116422
+alpha -0.118523984668
+total stump error 0.587484859515
+alpha -0.255052300044
+total stump error 0.217596886333
+alpha 0.923127099478
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.498948774937
+alpha 0.00303319884067
+total stump error 0.777497198613
+alpha -0.902506988442
+total stump error 0.688482231673
+alpha -0.572052483942
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.552356088592
+alpha -0.151623534269
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.493305344786
+alpha 0.0193178462047
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.609450812136
+alpha -0.321002763603
+total stump error 0.558851933331
+alpha -0.170601566132
+total stump error 0.460855919102
+alpha 0.113177545008
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.378644748246
+alpha 0.357286713767
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.435604691486
+alpha 0.186843251834
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.635406448618
+alpha -0.400695343654
+total stump error 0.314747709835
+alpha 0.561219682001
+total stump error 0.572574919765
+alpha -0.210896456899
+total stump error 0.563585400341
+alpha -0.184467436648
+total stump error 0.499267103144
+alpha 0.00211469483454
+total stump error 0.551701836354
+alpha -0.149715096404
+total stump error 0.755646632518
+alpha -0.814371374692
+total stump error 0.595561020619
+alpha -0.279163641769
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.308645810545
+alpha 0.581736401003
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.634970622704
+alpha -0.399338635288
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.311422648713
+alpha 0.572372428978
+total stump error 0.565448849841
+alpha -0.189935260489
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.599715740301
+alpha -0.291626976322
+total stump error 0.334790985754
+alpha 0.495273517432
+total stump error 0.589228688609
+alpha -0.260246124228
+total stump error 0.534170781833
+alpha -0.0987499664584
+total stump error 0.494284854729
+alpha 0.016491141705
+total stump error 0.737990381281
+alpha -0.746991118416
+total stump error 0.599132580091
+alpha -0.289875059464
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.668391263024
+alpha -0.505605428373
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.463925196272
+alpha 0.104271062685
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.789052358287
+alpha -0.95161803785
+total stump error 0.445466663854
+alpha 0.157978359368
+total stump error 0.671741634439
+alpha -0.516537335736
+total stump error 0.415599352437
+alpha 0.245882185223
+total stump error 0.328979137862
+alpha 0.514180761023
+total stump error 0.861612140447
+alpha -1.31916059696
+total stump error 0.51970496024
+alpha -0.0568859596994
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.520695387877
+alpha -0.0597484027683
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.391795324737
+alpha 0.317228362126
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.417691368026
+alpha 0.239673337915
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.551989979467
+alpha -0.150555538132
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.734272313513
+alpha -0.733183325461
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.258102397691
+alpha 0.76163826711
+total stump error 0.684872151659
+alpha -0.559948722629
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.714671060266
+alpha -0.662326644173
+total stump error 0.521838453196
+alpha -0.0630525712146
+total stump error 0.50336311476
+alpha -0.00970404431773
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.688337324337
+alpha -0.571565175348
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.556004482983
+alpha -0.162275702674
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.627681672948
+alpha -0.376748226175
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.35168551098
+alpha 0.441203958413
+total stump error 0.270461266575
+alpha 0.715781290152
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.856302053659
+alpha -1.2875401709
+total stump error 0.4369779198
+alpha 0.182815559423
+total stump error 0.713375767316
+alpha -0.657750811043
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.629034193789
+alpha -0.380926115235
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.228040151831
+alpha 0.879618971811
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.500613878984
+alpha -0.00177128122129
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.211779826249
+alpha 0.948016753464
+total stump error 0.62563153822
+alpha -0.370427169553
+total stump error 0.518106539936
+alpha -0.0522672862921
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.242404966886
+alpha 0.822003806184
+total stump error 0.68786829308
+alpha -0.569988720285
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.413487756019
+alpha 0.252158308224
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.519803519392
+alpha -0.0571707858911
+total stump error 0.622516093249
+alpha -0.360847997356
+total stump error 0.626179132232
+alpha -0.372114161948
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.503137453082
+alpha -0.00905289482369
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.393617495282
+alpha 0.311716891727
+total stump error 0.756992017936
+alpha -0.819637192582
+total stump error 0.476440528362
+alpha 0.0680286412507
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.287293502084
+alpha 0.655391357508
+total stump error 0.343399978541
+alpha 0.467562423936
+total stump error 0.343831924274
+alpha 0.466180950816
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.578190795127
+alpha -0.227477531307
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.306361315368
+alpha 0.589475111458
+total stump error 0.104082410737
+alpha 1.55281987474
+total stump error 0.39990788827
+alpha 0.292758113358
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.28697510019
+alpha 0.656513446819
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.246074530639
+alpha 0.807663283787
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.376135871917
+alpha 0.364988977665
+total stump error 0.570134843857
+alpha -0.203709500519
+total stump error 0.318594313298
+alpha 0.54839673582
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.495131227895
+alpha 0.0140487507858
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.705908542046
+alpha -0.631608199076
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.419487830781
+alpha 0.234348675684
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.501491910165
+alpha -0.00430475556901
+total stump error 0.727839199712
+alpha -0.70958023254
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.597321259291
+alpha -0.284438881018
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.751372982231
+alpha -0.797773080584
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.580094204825
+alpha -0.233110753826
+total stump error 0.420847635666
+alpha 0.230322466211
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.766522635615
+alpha -0.857522854077
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.453829697878
+alpha 0.13359992516
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.565057541654
+alpha -0.188786620116
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.541973558333
+alpha -0.121395790288
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.306826937853
+alpha 0.587895220171
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.457352664843
+alpha 0.123353921138
+total stump error 0.446046553047
+alpha 0.156285225505
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.598391611831
+alpha -0.287650274755
+total stump error 0.631518920788
+alpha -0.388617708635
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.634375546812
+alpha -0.397487299397
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.729473840967
+alpha -0.715544069469
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.431653836562
+alpha 0.19844754527
+total stump error 0.225910525196
+alpha 0.888374422706
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.495369259016
+alpha 0.0133618761547
+total stump error 0.513234456926
+alpha -0.0381954923838
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.629179526848
+alpha -0.381375414534
+total stump error 0.502297240169
+alpha -0.00662848063872
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.322040252665
+alpha 0.536979296272
+total stump error 0.360101594655
+alpha 0.414719441425
+total stump error 0.668205869967
+alpha -0.505002146691
+total stump error 0.292049279024
+alpha 0.638718558737
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.758276057343
+alpha -0.824681395919
+total stump error 0.584922003282
+alpha -0.247430901957
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.643587724285
+alpha -0.426294890427
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.505277280122
+alpha -0.0152275771849
+total stump error 0.600922985603
+alpha -0.295256460131
+total stump error 0.647063715045
+alpha -0.437250009484
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.542477412279
+alpha -0.122860048635
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.639560011204
+alpha -0.41366032874
+total stump error 0.350167846325
+alpha 0.446010256775
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.795910962663
+alpha -0.981704178888
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.566407135216
+alpha -0.19274921189
+total stump error 0.537120166801
+alpha -0.107303590837
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.422917160123
+alpha 0.224201665954
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.375054133944
+alpha 0.368316191177
+Weight Sum 1.0 Len 9244 9244
+total stump error 0.591221285689
+alpha -0.266189068298
+total stump error 0.483137812244
+alpha 0.0486724471748
+total stump error 0.355233047842
+alpha 0.4300059979
+Weight Sum 1.0 Len 9244 9244
+Confusion Matrix
+	 Model Results
+Actual\Model    0   90  180  270  Actual Count
+           0  156   25   35   23           239
+          90   33  131   31   29           224
+         180   27   27  168   14           236
+         270   34   27   34  149           244
+
+
+Saving Test Output...
+Adaboost Accuracy:  64.0509013786
+('Total Time', 7.1540000438690186)
+
+Process finished with exit code 0

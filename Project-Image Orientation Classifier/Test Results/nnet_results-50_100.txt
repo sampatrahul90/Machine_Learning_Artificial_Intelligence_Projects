@@ -1,0 +1,150 @@
+C:\Anaconda2\python.exe C:/Users/sampa/PycharmProjects/AI/Assignment_5/orient_beta5.py
+Reading train data...
+train/10008667845.jpg
+0
+train fname size: 36976
+train grid: [[101  89  68 ...,  79  47   1]
+ [ 92  97  65 ...,  99  54   1]
+ [ 88  86  71 ...,  88  64   1]
+ ..., 
+ [ 55  71  80 ..., 218 217   1]
+ [ 37  43  47 ..., 218 222   1]
+ [210 221 226 ...,  70  69   1]]
+train label: [[1 0 0 0]
+ [0 1 0 0]
+ [0 0 1 0]
+ ..., 
+ [0 1 0 0]
+ [0 0 1 0]
+ [0 0 0 1]]
+Reading test data...
+test/10008707066.jpg
+0
+test grid: [[219 216 214 ...,  31  32   1]
+ [154 178 200 ...,  84  49   1]
+ [ 64  44  54 ..., 210 214   1]
+ ..., 
+ [150 149 148 ...,  79  51   1]
+ [ 17  14  10 ...,  19  27   1]
+ [206 176 196 ..., 142 161   1]]
+test label: [[1 0 0 0]
+ [1 0 0 0]
+ [0 0 1 0]
+ ..., 
+ [0 1 0 0]
+ [0 0 1 0]
+ [0 0 0 1]]
+Training...
+Train Size:  36976
+m 0
+m 1
+m 2
+m 3
+m 4
+m 5
+m 6
+m 7
+m 8
+m 9
+m 10
+m 11
+m 12
+m 13
+m 14
+m 15
+m 16
+m 17
+m 18
+m 19
+m 20
+m 21
+m 22
+m 23
+m 24
+m 25
+m 26
+m 27
+m 28
+m 29
+m 30
+m 31
+m 32
+m 33
+m 34
+m 35
+m 36
+m 37
+m 38
+m 39
+m 40
+m 41
+m 42
+m 43
+m 44
+m 45
+m 46
+m 47
+m 48
+m 49
+m 50
+m 51
+m 52
+m 53
+m 54
+m 55
+m 56
+m 57
+m 58
+m 59
+m 60
+m 61
+m 62
+m 63
+m 64
+m 65
+m 66
+m 67
+m 68
+m 69
+m 70
+m 71
+m 72
+m 73
+m 74
+m 75
+m 76
+m 77
+m 78
+m 79
+m 80
+m 81
+m 82
+m 83
+m 84
+m 85
+m 86
+m 87
+m 88
+m 89
+m 90
+m 91
+m 92
+m 93
+m 94
+m 95
+m 96
+m 97
+m 98
+m 99
+Writing files to pickle...
+Time to write files:  0.0120000839233
+Testing NNet...
+Test Size:  943
+nnet Accuracy:  65.1113467656
+('Total Time', 465.9260001182556)
+
+hidden Layers = 10
+Loop = 100
+
+
+Process finished with exit code 0

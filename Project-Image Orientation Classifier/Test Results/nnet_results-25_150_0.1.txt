@@ -1,0 +1,177 @@
+C:\Anaconda2\python.exe C:/Users/sampa/PycharmProjects/AI/Assignment_5/orient_beta5.py
+Reading train data...
+Reading test data...
+Training Neural Net...
+Train Size:  36976
+Iteration 0 / 150
+Iteration 1 / 150
+Iteration 2 / 150
+Iteration 3 / 150
+Iteration 4 / 150
+Iteration 5 / 150
+Iteration 6 / 150
+Iteration 7 / 150
+Iteration 8 / 150
+Iteration 9 / 150
+Iteration 10 / 150
+Iteration 11 / 150
+Iteration 12 / 150
+Iteration 13 / 150
+Iteration 14 / 150
+Iteration 15 / 150
+Iteration 16 / 150
+Iteration 17 / 150
+Iteration 18 / 150
+Iteration 19 / 150
+Iteration 20 / 150
+Iteration 21 / 150
+Iteration 22 / 150
+Iteration 23 / 150
+Iteration 24 / 150
+Iteration 25 / 150
+Iteration 26 / 150
+Iteration 27 / 150
+Iteration 28 / 150
+Iteration 29 / 150
+Iteration 30 / 150
+Iteration 31 / 150
+Iteration 32 / 150
+Iteration 33 / 150
+Iteration 34 / 150
+Iteration 35 / 150
+Iteration 36 / 150
+Iteration 37 / 150
+Iteration 38 / 150
+Iteration 39 / 150
+Iteration 40 / 150
+Iteration 41 / 150
+Iteration 42 / 150
+Iteration 43 / 150
+Iteration 44 / 150
+Iteration 45 / 150
+Iteration 46 / 150
+Iteration 47 / 150
+Iteration 48 / 150
+Iteration 49 / 150
+Iteration 50 / 150
+Iteration 51 / 150
+Iteration 52 / 150
+Iteration 53 / 150
+Iteration 54 / 150
+Iteration 55 / 150
+Iteration 56 / 150
+Iteration 57 / 150
+Iteration 58 / 150
+Iteration 59 / 150
+Iteration 60 / 150
+Iteration 61 / 150
+Iteration 62 / 150
+Iteration 63 / 150
+Iteration 64 / 150
+Iteration 65 / 150
+Iteration 66 / 150
+Iteration 67 / 150
+Iteration 68 / 150
+Iteration 69 / 150
+Iteration 70 / 150
+Iteration 71 / 150
+Iteration 72 / 150
+Iteration 73 / 150
+Iteration 74 / 150
+Iteration 75 / 150
+Iteration 76 / 150
+Iteration 77 / 150
+Iteration 78 / 150
+Iteration 79 / 150
+Iteration 80 / 150
+Iteration 81 / 150
+Iteration 82 / 150
+Iteration 83 / 150
+Iteration 84 / 150
+Iteration 85 / 150
+Iteration 86 / 150
+Iteration 87 / 150
+Iteration 88 / 150
+Iteration 89 / 150
+Iteration 90 / 150
+Iteration 91 / 150
+Iteration 92 / 150
+Iteration 93 / 150
+Iteration 94 / 150
+Iteration 95 / 150
+Iteration 96 / 150
+Iteration 97 / 150
+Iteration 98 / 150
+Iteration 99 / 150
+Iteration 100 / 150
+Iteration 101 / 150
+Iteration 102 / 150
+Iteration 103 / 150
+Iteration 104 / 150
+Iteration 105 / 150
+Iteration 106 / 150
+Iteration 107 / 150
+Iteration 108 / 150
+Iteration 109 / 150
+Iteration 110 / 150
+Iteration 111 / 150
+Iteration 112 / 150
+Iteration 113 / 150
+Iteration 114 / 150
+Iteration 115 / 150
+Iteration 116 / 150
+Iteration 117 / 150
+Iteration 118 / 150
+Iteration 119 / 150
+Iteration 120 / 150
+Iteration 121 / 150
+Iteration 122 / 150
+Iteration 123 / 150
+Iteration 124 / 150
+Iteration 125 / 150
+Iteration 126 / 150
+Iteration 127 / 150
+Iteration 128 / 150
+Iteration 129 / 150
+Iteration 130 / 150
+Iteration 131 / 150
+Iteration 132 / 150
+Iteration 133 / 150
+Iteration 134 / 150
+Iteration 135 / 150
+Iteration 136 / 150
+Iteration 137 / 150
+Iteration 138 / 150
+Iteration 139 / 150
+Iteration 140 / 150
+Iteration 141 / 150
+Iteration 142 / 150
+Iteration 143 / 150
+Iteration 144 / 150
+Iteration 145 / 150
+Iteration 146 / 150
+Iteration 147 / 150
+Iteration 148 / 150
+Iteration 149 / 150
+Writing files to pickle...
+Testing Neural Net...
+Test Size:  943
+Confusion Matrix
+	 Model Results
+Actual\Model    0   90  180  270  Actual Count
+           0  172   19   31   17           239
+          90   24  160   17   23           224
+         180   30   31  159   16           236
+         270   28   30   16  170           244
+
+
+Saving Test Output...
+Hidden Count =  25
+NNet Accuracy:  70.0954400848
+('Total Time', 517.8429999351501)
+hidden Layers = 50
+Loop = 125
+alpha = 0.1
+
+
+Process finished with exit code 0
