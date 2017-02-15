@@ -15,10 +15,15 @@ Explanation for Features and Weights:
   in the paper as well as several tests that we ran.
 
   Feature 1 - Aggregate Height: Sum of heights of each column is a negative feature.
+  
   Feature 2 - Complete Lines: Number of lines complete lines is a positive feature.
+  
   Feature 3 - Bumpiness: sum of difference in height between each columns is a negative feature.
+  
   Feature 4 - Holes count: Number of spaces with atleast a filled spot above it in the same column is a negative feature.
+  
   Feature 5 - Altitude Delta: Different is height between the tallest and shortest column is a negative feature.
+  
   Feature 6 - Weighted Holes: Sum of the holes weighed by the row they are located in is a negative feature.
 
   General Formula for Evalution:
