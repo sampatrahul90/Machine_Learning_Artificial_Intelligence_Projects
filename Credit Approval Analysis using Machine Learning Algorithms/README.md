@@ -2,14 +2,18 @@
 
 1) Self Implemented Codes:
 a) Naive Bayes
+
 NB_AML2.py:
+
 NOTE: The program is python 2.7 compatible. Kindly run on compatible python version to avoid incorrect results/errors.
 
 This is the Naive Bayes Code:
 Please run this file with the following command:
+
 	python NB_AML2.py data_file, delimiter, header_present_flag, label_index, fraction
 
 Example:
+
  	python NB_AML2.py "default of credit card clients_no_headers.csv" "," False 15 0.1
 
 The parameters for all the 3 datasets are given below
@@ -19,8 +23,7 @@ It takes 5 parameters as follows:
 1) data_file = The data file name (with the full path if the file is not in the same folder as the python file)
  	eg: "default of credit card clients_no_headers.csv"
 
-2) delimiter = The delimiter used to separate the columns in the data (Can be "," or blankspace(" ") or anything else
-as long as its consistent through out the file)
+2) delimiter = The delimiter used to separate the columns in the data (Can be "," or blankspace(" ") or anything else as long as its consistent through out the file)
  	eg: ","
 
 3) header_present_flag = True/False.Used to notify whether the data file contains the first row as column header or not
@@ -34,9 +37,11 @@ as long as its consistent through out the file)
     Eg: If 0.9 is given, then it randomly assigns 90% of the data as train and rest 10% as test.
  		eg: 0.9
 
+
 Note: Please make sure you give data_file and header_present_flag in double quotes ("") and NOT single quotes ('')
 
 Parameters:
+
 1) German Data Set (german.data)
 	data_file = "german.data"
 	delimiter = " " (Blank Space)
@@ -68,17 +73,25 @@ Self implemented kNN is present in the below python files itself
 
 NOTE: The below python programs is python 3.5 compatible. Kindly run on compatible python version to avoid incorrect results/errors.
 Python version: 3.5
-Individual Dataset Analysis and Parameters Tuning:
-One python file per dataset
+
+Individual Dataset Analysis and Parameters Tuning: One python file per dataset
+
 a) German.py
+
 b) CRX.py, 
+
 c) Default.py
 
-Please run the above 3 files separately (having all data files in the same folder). These files contains the best parameters tuning by greedy approach for all three datasets.
+
+Please run the above 3 files separately (having all data files in the same folder). 
+These files contains the best parameters tuning by greedy approach for all three datasets.
 
 Outputs for this is 10 Fold Cross Validation ROC graph and accuracy, and are stored in the below files respectively:
+
 a) German.html
+
 b) CRX.html
+
 c) Default.html
 
 The results of respective datasets is displayed as jupyter notebook in these files.
@@ -90,6 +103,7 @@ Best Parameters settings and Confusion Matrix:
 Python version: 3.5
 
 d) final.py
+
 Please run final.py (having all data files in the same folder). 
 This file contains the best parameters settings by greedy approach for all three datasets.
 Outputs for this is 10 Fold Cross Validation ROC graph, accuracy and Confusion Matrix, and are stored in the below files respectively:
