@@ -2,6 +2,7 @@ Inpurt Format:
 python route.py [start-city] [end-city] [routing-option] [routing-algorithm]
 
 where:
+
 a) start-city and end-city are the cities we need a route between.
 
 b) routing-option is one of:
@@ -56,6 +57,7 @@ would be the minimum of the available highways to take.
 
 
 How the algorithm works:
+
 BFS: Keep traversing the nodes in BFS order and print when destination is found.
 DFS: Keep traversing the nodes in DFS order and print when destination is found.
 IDS: Keep traversing the nodes in IDS manner, increasing the depth by 1 for every iteration
@@ -63,5 +65,6 @@ and print when destination is found.
 A*: Implemented A* using the heuristics as defined above.
 
 Assumptions/simplifications:
+
 Since latitude and longitude of junctions are not given, we have calculated them by using the formula:
 Summation of |total_of_connecting_segments – length_of_each_connecting_segment|  /total_of_connecting_segments
