@@ -1,4 +1,4 @@
-# My Project Collection in Machine Learning and Artificial Intelligence
+# My Project Collection in Machine Learning/Artificial Intelligence/Data Science
 
 These are projects I've worked on over time for various things such as class projects, kaggle, fun etc.
 
