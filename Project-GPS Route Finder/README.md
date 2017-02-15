@@ -38,6 +38,7 @@ segment(weight of 1) or scenic(weight of highway distance of a road)
 
 d) Heuristic:
 Heuristic function is only used in A*.
+
 Segment and Distance heuristic – Calculate the haversine distance between the current state and goal state.
 This is admissible because the haversine distance will give the minimum distance between the two states given that a
 straightline road(curve) exists between the two states.
@@ -47,6 +48,7 @@ Since dataset has max speed limit as 65, 65 is used as the speed limit.
 
 Scenic: Here we check a possible outgoing routes and if any of them is scenic, it will return 0,
 else if all are highways then it will take the minimum of the available highway distances.
+
 This is admissible because if there is at least one outgoing scenic route there is a possibility that
 future all roads to the destination would be scenic and thus the heuristics is accurate at 0.
 If all are highways, then we know that no matter what the minimum value added now to the highway distance
