@@ -1,6 +1,7 @@
 
 
-1) Self Implemented Codes:
+#1) Self Implemented Codes:
+
 a) Naive Bayes
 
 NB_AML2.py:
@@ -66,9 +67,12 @@ Parameters:
 
 
 
+
 b) Self implemented kNN is present in the below python files itself
 
-2) Scikit based implementation:
+
+#2) Scikit based implementation:
+
 Self implemented kNN is present in the below python files itself
 
 NOTE: The below python programs is python 3.5 compatible. Kindly run on compatible python version to avoid incorrect results/errors.
