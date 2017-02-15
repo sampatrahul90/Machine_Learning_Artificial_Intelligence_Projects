@@ -1,8 +1,6 @@
 We tried 3 different machine learning algorithms to identify the orientation of an image.
 
-************************************************k-nearest neighbours***********************************************
-
-#Part 1:
+#Part 1: k-nearest neighbours
 
 kNN - Takes ~ 8-9 mins to run
 
@@ -34,9 +32,8 @@ This gave us a huge performance improvement, with the test time of ~8 mins on th
 Note: kNN takes ~8 mins to run on the provided data set. Time depends on the train and test data set size. Hence
 it might differ on other data sets.
 
-*************************************************************AdaBoost************************************************
 
-#Part 2:
+#Part 2: AdaBoost
 
 AdaBoost - Takes ~ 15 seconds to run (Best Stump Count = 100)
 
@@ -68,8 +65,8 @@ stump_count = 100
 Note: We are using pandas.Dateframe just to display the confusion matrix, since it provides good alignment like that
 of a table. Pandas hasn't been used for any other purpose.
 
-*******************************************************Neural Network************************************************
-#Part 3:
+
+#Part 3: Neural Network
 
 Neural Network: Takes ~ 5-6 mins to run (Best Hidden Count = 25)
 You may try with smaller hidden count for better performance (Hidden Count = 10 ; T = ~200 seconds)
@@ -90,8 +87,8 @@ stump value since we taking completely random pairs of points and not finding th
 Note: Kindly see the report for accuracies over different values of hidden_count. And the confusion matrix when
 hidden_count = 25
 
-*************************************************************Design Decisions************************************************
 
+#Design Decisions
 
 1) Firstly, to improve performance, we tried not using all the 192 features for Neural Network. Instead, we were
 taking an average of 2 consecutive neighbors and storing as one value. This made our input feature vector for each
@@ -110,9 +107,6 @@ eg. After 20 iteration - alpha = (0.9)^2 ; after 30 iterations - alpha = (0.9)^3
 
 Note: We are using pandas.Dataframe just to display the confusion matrix, since it provides good alignment like that
 of a table. Pandas hasn't been used for any other purpose.
-
-
-*******************************************************************************************************************************
 
 
 #How to run:
