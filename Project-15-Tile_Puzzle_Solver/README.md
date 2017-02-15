@@ -1,5 +1,7 @@
 •	Implemented a 15-tile puzzle solver with edge flip functionality ie. the tile at the edges can swap with the tiles on the other side of the edge. 
+
 •	Given any state, it can solve the puzzle with minimum amount of steps.
+
 •	Implemented using A* algorithm with modified Manhattan heuristic function to accommodate the edge flip functionality for the states.
 
 Below is the working of the algorithm:
