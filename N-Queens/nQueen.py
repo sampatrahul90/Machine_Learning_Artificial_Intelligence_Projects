@@ -74,13 +74,6 @@ def successors2(board):
         x=x-1
     return new_board
 
-# # Get list of successors of given board state for Rooks in a very OPTIMIZED WAY*********Question 4
-# def successors3(board):
-#     #new_board3=[ add_piece(board, r, r) for r in range(0, N)]
-#     new_board3=[board]
-#     for r in range(0,N):
-#         new_board3=[add_piece(new_board3[0],r,r)]
-#     return new_board3
 
 # Does the same function as the above successors3(), but in a LESS optimized way. (Kept the function for its approach and learning purposes)
 # Get list of successors of given board state for Rooks in a very OPTIMIZED WAY*********Question 4
@@ -112,38 +105,6 @@ def is_goal(board):
         all( [ count_on_row(board, r) <= 1 for r in range(0, N) ] ) and \
         all( [ count_on_col(board, c) <= 1 for c in range(0, N) ] )
 
-# #I have divided the board into 4 diagonal quadrants or 4 different halves- 2 parts across each diagonal.
-# #Now I am using the below 4 functions to check the diagonal sum for each part respectively.
-# # Checks the 1st half  of the board starting from left bottom half of the board*********
-# def count_on_diag_left_bottom(board,r):
-#     return sum( [ board[x][abs(x-r)] for x in range(r,N) ] )
-#
-# # Checks the 2nd half  of the board starting from left top half of the board*********
-# def count_on_diag_left_top(board,r):
-#     return sum( [ board[x][abs(x-r)] for x in range(r,-1,-1) ] )
-#
-# # Checks the 3rd half  of the board starting from right top half of the board*********
-# def count_on_diag_right_top(board,c):
-#     return sum( [ board[abs(x-c)][abs(x)] for x in range(c,N) ] )
-#
-# # Checks the 4th half of the board starting from right bottom half of the board*********
-# def count_on_diag_right_bottom(board,r):
-#     col_index=N-1
-#     total_sum=0
-#     #return sum( [ board[abs(x)][abs(col_index-1)] for x in range(r,N) ] )
-#     for x in range(r,N):
-#         total_sum = total_sum + board[abs(x)][abs(col_index)]
-#         col_index-=1
-#     return total_sum
-#
-# #Checks if the board is a goal for n-Queens******************s
-# def is_queen_valid(board):
-#     return all( [ count_on_row(board, r) <= 1 for r in range(0, N) ] ) and \
-#         all( [ count_on_col(board, c) <= 1 for c in range(0, N) ] ) and \
-#         all( [ count_on_diag_left_bottom(board, dr1) <=1 for dr1 in range(0, N-1) ] ) and \
-#         all( [ count_on_diag_left_top(board, dr2) <=1 for dr2 in range(N-1, 0,-1) ] ) and \
-#         all( [ count_on_diag_right_top(board, dr3) <=1 for dr3 in range(1, N-1) ] ) and \
-#         all( [ count_on_diag_right_bottom(board, dr4) <=1 for dr4 in range(1, N) ] )
 
 
 # Solve n-rooks with the default successors() function:
